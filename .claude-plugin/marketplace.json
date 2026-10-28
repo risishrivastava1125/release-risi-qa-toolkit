@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "playwright-qa-toolkit",
-      "source": "./playwright-qa-toolkit",
-      "description": "A minimal QA toolkit for reviewing Playwright tests and analyzing test failures."
+      "name": "risi-qa-toolkit",
+      "source": "./risi-qa-toolkit",
+      "description": "QA Mart testing toolkit: skills, agents, hooks and a read-only MCP server for Playwright failure analysis and review."
     }
   ]
 }

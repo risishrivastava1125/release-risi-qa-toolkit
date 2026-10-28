@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "risi-qa-toolkit",
+  "version": "1.1.0",
+  "description": "QA Mart testing toolkit: failure-analysis and coupon boundary skills, test-reviewer and bug-triage agents, app-guard and lint-feedback hooks, and a read-only MCP server for the app and Playwright results.",
+  "keywords": ["playwright", "testing", "qa", "mcp", "qa-mart"],
+  "license": "MIT"
+}
